@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b> Digital Electronics Lab
-<b> Experiment|     <b> 1125 To implement Half adder & Full adder by using basic and universal gates.
+<b> Experiment|     <b> 1125 To implement Half adder by using basic and universal gates.
 
 ### About the Experiment 
 
