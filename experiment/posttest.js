@@ -89,20 +89,24 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.The difference between half adder and full adder is:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Half adder has two inputs while full adder has four inputs", ///// Write the option 1 inside double quotes
+                b: "Half adder has one output while full adder has two outputs", ///// Write the option 2 inside double quotes
+                c: "Half adder has two inputs while full adder has three inputs",
+                d: "All of the Mentioned",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "Two-bit addition is done by",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
+        a: "ripple carry adder",                  ///// Write the option 1 inside double quotes
+        b: "carry sum adder",                  ///// Write the option 2 inside double quotes
+        c: "full adder", 
+        d: "half adder",   
+      },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
