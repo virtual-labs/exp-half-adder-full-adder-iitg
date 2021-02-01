@@ -100,7 +100,7 @@
         },
 
     {
-      question: "Two-bit addition is done by",  ///// Write the question inside double quotes
+      question: "2.Two-bit addition is done by",  ///// Write the question inside double quotes
       answers: {
         a: "ripple carry adder",                  ///// Write the option 1 inside double quotes
         b: "carry sum adder",                  ///// Write the option 2 inside double quotes
