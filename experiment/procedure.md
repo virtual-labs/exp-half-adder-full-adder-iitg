@@ -2,7 +2,8 @@
 We used the following components for this experiment-
 
   IC 7408 (AND gate) Datasheet
-  IC 7486 (XOR gate) Datasheet
+  IC 7486 (XOR gate) [Datasheet](https://www.iitg.ac.in/cseweb/vlab/Digital-System-Lab/pdfs/ic7408.pdf)
+  
 
 ### How to make connection:
 
