@@ -18,7 +18,7 @@ $.fx.speeds._default = 1000;
 var setUI = function(){
     $( "#componentsDialog" ).dialog({
         autoOpen: false,
-        position: ['left','center']
+        position: ['left+200','top+200']
     });
 	
 	//$( "#componentsDialog" ).dialog( "option", "maxHeight", 400 );
@@ -224,6 +224,6 @@ var retriveConnectionsFromDB = function(expId){
 
 $(document).ready(function() {
     //$('#cktBody').css({'height':$(window).height() - 90});
-    $('#sideBar').css({'height':$(window).height() - 90});
+//     $('#sideBar').css({'height':$(window).height() - 90});
     setUI();
 });
