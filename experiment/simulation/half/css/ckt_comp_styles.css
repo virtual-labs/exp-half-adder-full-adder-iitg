@@ -1,0 +1,95 @@
+#ic_74153_comp{
+    width:96px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 10px;
+    text-align: center;
+    background: url('../images/ckt_el/chip_74153.png') top center  no-repeat;
+    color:white;
+}
+ 
+#ic_7486_comp{
+    width:96px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 10px;
+    text-align: center;
+    background: url('../images/ckt_el/chip_7476.png') top center  no-repeat;
+    color:white;
+}
+
+#ic_7408_comp{
+    width:96px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 10px;
+    text-align: center;
+    background: url('../images/ckt_el/chip_7476.png') top center  no-repeat;
+    color:white;
+}
+
+
+
+#supply_comp{
+    margin:20px 0px 20px 10px;
+    width:120px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background: url('../images/ckt_el/supply.png') top center  no-repeat;
+}
+
+#output_cout_comp{
+    width:40px;
+    height: 40px;
+    background: url('../images/ckt_el/light_off.png') top center  no-repeat;
+    float:left;
+}
+
+#output_sum_comp{
+    width:40px;
+    height: 40px;
+    background: url('../images/ckt_el/light_off.png') top center  no-repeat;
+    float:left;
+}
+
+
+
+img.sled_on, img.cled_on{
+    display: none;
+}
+
+.ui-button .ui-icon.custom-switch-icon {
+    background: url('../images/ckt_el/switch0.png') top center  no-repeat;
+    width:40px;
+    height: 65px;
+    left:20%;
+    top:2%;
+}
+
+.ui-button .ui-icon.custom-switch-icon-on {
+    background: url('../images/ckt_el/switch1.png') top center  no-repeat;
+    width:40px;
+    height: 65px;
+    left:20%;
+    top:2%;
+}
+
+.inputContainer{
+    /*text-align: center;*/
+    /*background: url('../images/ckt_el/led_on2.png') top center  no-repeat;*/
+    width:40px;
+    height: 103px;
+    float:left;
+    margin-left: 2px;
+    position: relative;
+}
+
+img.indicator{
+    display:block;
+    margin-left: 15%;
+    margin-bottom: 10px;
+}
+
+
+
