@@ -89,23 +89,36 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.In parts of the processor, adders are used to calculate:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Addresses", ///// Write the option 1 inside double quotes
+                b: "Table indices", ///// Write the option 2 inside double quotes
+                c: "Increment and decrement operators",
+                d: "All of the Mentioned",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2.Total number of inputs in a half adder is:",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
+        a: "2",                  ///// Write the option 1 inside double quotes
+        b: "3",                  ///// Write the option 2 inside double quotes
+        c: "4", 
+        d: "1",
+      },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
-
+{
+      question: "3.If A and B are the inputs of a half adder, the sum is given by:",  ///// Write the question inside double quotes
+      answers: {
+        a: "A AND B",                  ///// Write the option 1 inside double quotes
+        b: "A OR B",                  ///// Write the option 2 inside double quotes
+        c: "A XOR B", 
+        d: "A EXOR B",
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
 
 
      ];

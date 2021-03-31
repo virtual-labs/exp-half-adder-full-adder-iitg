@@ -1,24 +1,30 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electronics and Communication
+
+<b>Discipline | <b>Computer Science & Engineering
 :--|:--|
-<b> Lab | <b>Digital Electronics Lab
-<b> Experiment|     <b> To implement Half adder & Full adder by using basic and universal gates
+<b> Lab | <b> Digital Electronics Lab
+<b> Experiment|     <b> 1125 To implement Half adder by using basic and universal gates.
+
 
 ### About the Experiment 
 
 Implement of Half adder. It is a digital system experiment where a user can test circuits
 
-<b>Name of Developer | <b> Prof. Santosh Biswas 
+
+<b>Name of Developer | <b> Dr. SANTOSH BISWAS
 :--|:--|
-<b> Institute | <b>  Indian Institute of Technology Guwahati
-<b> Email id|     <b> santosh_biswas@iitg.ernet.in
-<b> Department |  Computer Science and Engineering
+<b> Institute | <b> IIT Guwahati 
+<b> Email id|     <b>  santosh_biswas@iitg.ac.in
+<b> Department |  Computer Science & Engineering
+
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Hrishikesh Baruah| Project Staff | CSE | IITG | hrishikeshbaruah@rnd.iitg.ac.in
-2 | Sudarshana Sarma | Project Staff | CSE | IITG | sudarshana91@rnd.iitg.ac.in
+
+1 |Hrishikesh Baruah | Project Staff | Computer Science & Engineering | IITG | hrishikeshbaruah@rnd.iitg.ac.in
+2 |Sudarshana Sarma | Project Staff | Computer Science & Engineering | IITG  | sudarshana91@rnd.iitg.ac.in
+
