@@ -16,6 +16,10 @@ Cout = AB
 When any of the inputs A and B is equal to 1, the Sum is 1. Otherwise, it is 0.
 Carry Cout is 1 only when both the inputs are 1.
 
+### Full Adder
+
+The combinational circuit that performs addition of three bits (Two significant bits and a previos carry) is called Full adder.
+
 The characteristic equation of a Full Adder is expressed as:
 
 Sum = A̅B̅Cin+A̅BCin+AB̅C̅in+ABCin
