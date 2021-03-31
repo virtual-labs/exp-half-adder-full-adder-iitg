@@ -10,6 +10,7 @@ The characteristic equation of a Half Adder is expressed as:
 
 Sum = AB̅ + A̅B
     = A⨁B
+    
 Cout = AB
 
 When any of the inputs A and B is equal to 1, the Sum is 1. Otherwise, it is 0.
