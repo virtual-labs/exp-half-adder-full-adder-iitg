@@ -116,7 +116,7 @@ var setUI = function(){
             event.preventDefault();
             circuitController.clearEverything();
 
-            $(".outputContainer div").css("background", "url('../../images/ckt_el/light_off.png') no-repeat");
+            $(".outputContainer div").css("background", "url('images/ckt_el/light_off.png') no-repeat");
             return false;
         }
     );
@@ -159,7 +159,7 @@ var setUI = function(){
 };
 
 var saveConnections = function(expId, wires){
-    $('#modDialog').html('<img src="../../images/ajax-loader.gif" width="128" height="15"><br/>Saving Circuit...');
+    $('#modDialog').html('<img src="images/ajax-loader.gif" width="128" height="15"><br/>Saving Circuit...');
     $( "#modDialog" ).dialog( "open" );
     var req = $.ajax({
         type: "POST",
@@ -188,7 +188,7 @@ var saveConnections = function(expId, wires){
 };
 
 var retriveConnectionsFromDB = function(expId){
-    $('#modDialog').html('<img src="../../images/ajax-loader.gif" width="128" height="15"><br/>Loading Circuit...');
+    $('#modDialog').html('<img src="images/ajax-loader.gif" width="128" height="15"><br/>Loading Circuit...');
     $( "#modDialog" ).dialog( "open" );
 
     var req = $.ajax({
