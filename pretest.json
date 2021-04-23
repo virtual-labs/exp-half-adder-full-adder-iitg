@@ -1,0 +1,28 @@
+[{
+	"question": "1.In parts of the processor, adders are used to calculate:",
+	"answers": {
+		"a": "Addresses",
+		"b": "Table indices",
+		"c": "Increment and decrement operators",
+		"d": "All of the Mentioned"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2.Total number of inputs in a half adder is:",
+	"answers": {
+		"a": "2",
+		"b": "3",
+		"c": "4",
+		"d": "1"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "3.If A and B are the inputs of a half adder, the sum is given by:",
+	"answers": {
+		"a": "A AND B",
+		"b": "A OR B",
+		"c": "A XOR B",
+		"d": "A EXOR B"
+	},
+	"correctAnswer": "c"
+}]
