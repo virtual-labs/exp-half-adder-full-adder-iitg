@@ -1,0 +1,19 @@
+[{
+	"question": "1.The difference between half adder and full adder is:",
+	"answers": {
+		"a": "Half adder has two inputs while full adder has four inputs",
+		"b": "Half adder has one output while full adder has two outputs",
+		"c": "Half adder has two inputs while full adder has three inputs",
+		"d": "All of the Mentioned"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2.Two-bit addition is done by",
+	"answers": {
+		"a": "ripple carry adder",
+		"b": "carry sum adder",
+		"c": "full adder",
+		"d": "half adder"
+	},
+	"correctAnswer": "c"
+}]
