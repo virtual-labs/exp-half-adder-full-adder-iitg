@@ -46,6 +46,44 @@ Carry Cout is 1 only when both the inputs are 1.
 
 The combinational circuit that performs addition of three bits (Two significant bits and a previous carry) is called Full adder.
 
+<table>
+    <caption><b>Truth Table</b></caption>
+                            <thead>
+                                <tr>
+                                    <th colspan="3">Inputs</th><th colspan="2">Outputs</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                   <td>A</td> <td>B</td> <td>Cin</td> <td>Cout</td> <td>S</td>
+                                </tr>
+                                <tr>
+                                   <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+                                </tr>
+                                <tr>
+                                    <td>0</td> <td>0</td> <td>1</td> <td>0</td> <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>0</td> <td>1</td> <td>0</td> <td>0</td> <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>0</td> <td>1</td> <td>1</td> <td>1</td> <td>0</td>
+                                </tr>
+                               <tr>
+                                    <td>1</td> <td>0</td> <td>0</td> <td>0</td> <td>1</td>
+                                </tr>
+                               <tr>
+                                    <td>1</td> <td>0</td> <td>1</td> <td>1</td> <td>0</td>
+                                </tr>
+                               <tr>
+                                    <td>1</td> <td>1</td> <td>0</td> <td>1</td> <td>0</td>
+                                </tr>
+                               <tr>
+                                    <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
 The characteristic equation of a Full Adder is expressed as:
 
 Sum = A̅B̅Cin+A̅BCin+AB̅C̅in+ABCin
