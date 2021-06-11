@@ -1,2 +1,5 @@
-### 1. M. Morris Mano, Digital Logic And Computer Design
-### 2. https://en.wikipedia.org/wiki/Digital_electronics
+### 1. Mano, M. Morris. Digital logic and computer design. Pearson Education India, 2017.
+
+### 2. Website: 
+
+https://en.wikipedia.org/wiki/Digital_electronics
