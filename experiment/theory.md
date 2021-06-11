@@ -6,6 +6,32 @@ A combinational circuit that performs the addition of two bits is called a half 
 ### Half Adder
 A half adder is a combinational circuit with two binary inputs (augend and addend bits) and two binary outputs (sum and carry bits). It adds two inputs (A and B) and produces the sum (S) and the carry (C) bits. It is an arithmatic circuit used to perform the arithmatic operaton of addition of two single bit words.
 
+   <table>
+    <caption><b>Truth Table</b></caption>
+                            <thead>
+                                <tr>
+                                    <th colspan="2">Inputs</th><th colspan="2">Outputs</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>A</td> <td>B</td> <td>C</td> <td>S</td>
+                                </tr>
+                                <tr>
+                                    <td>0</td> <td>0</td> <td>0</td> <td>0</td>
+                                </tr>
+                                <tr>
+                                    <td>0</td> <td>1</td> <td>0</td> <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>1</td> <td>0</td> <td>0</td> <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>1</td> <td>1</td> <td>1</td> <td>0</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
 The characteristic equation of a Half Adder is expressed as:
 
 Sum = AB̅ + A̅B
