@@ -1,0 +1,915 @@
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/bootstrap.min.js
+  6:294    warning  'jQuery' is not defined                                                    no-undef
+  6:2674   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:2899   warning  'jQuery' is not defined                                                    no-undef
+  6:4477   warning  'jQuery' is not defined                                                    no-undef
+  6:6148   warning  'jQuery' is not defined                                                    no-undef
+  6:12010  warning  'jQuery' is not defined                                                    no-undef
+  6:16597  warning  'jQuery' is not defined                                                    no-undef
+  6:20057  warning  'jQuery' is not defined                                                    no-undef
+  6:27394  warning  'jQuery' is not defined                                                    no-undef
+  6:31555  warning  'jQuery' is not defined                                                    no-undef
+  7:2292   warning  'jQuery' is not defined                                                    no-undef
+  7:5309   warning  'Tether' is not defined                                                    no-undef
+  7:10383  warning  'jQuery' is not defined                                                    no-undef
+  7:12439  warning  'jQuery' is not defined                                                    no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/circuit_controller.js
+    1:10  warning  'CircuitController' is defined but never used                              no-unused-vars
+   15:9   warning  'getEndpoints' is assigned a value but never used                          no-unused-vars
+  127:57  warning  'originalEvent' is defined but never used                                  no-unused-vars
+  130:13  warning  'jsPlumb' is not defined                                                   no-undef
+  140:21  warning  'x' is assigned a value but never used                                     no-unused-vars
+  140:25  warning  '$' is not defined                                                         no-undef
+  207:27  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  238:17  warning  'i' is already defined                                                     no-redeclare
+  250:28  warning  '$' is not defined                                                         no-undef
+  267:27  warning  '$' is not defined                                                         no-undef
+  311:17  warning  '$' is not defined                                                         no-undef
+  319:9   warning  '$' is not defined                                                         no-undef
+  327:9   warning  '$' is not defined                                                         no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/cm_src/jquery.contextMenu.js
+    15:14  warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    56:26  warning  Empty block statement                                            no-empty
+   114:17  warning  '$this' is assigned a value but never used                       no-unused-vars
+   193:16  warning  Unexpected constant condition                                    no-constant-condition
+   341:24  warning  Empty block statement                                            no-empty
+   350:17  warning  'mouseup' is assigned a value but never used                     no-unused-vars
+   356:17  warning  'selectors' is defined but never used                            no-unused-vars
+   362:30  warning  'hideshow' is defined but never used                             no-unused-vars
+   362:40  warning  'possibleTarget' is defined but never used                       no-unused-vars
+   444:17  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+   503:21  warning  Unreachable code                                                 no-unreachable
+   635:30  warning  'e' is defined but never used                                    no-unused-vars
+   645:29  warning  'e' is defined but never used                                    no-unused-vars
+   655:34  warning  'e' is defined but never used                                    no-unused-vars
+   780:17  warning  'root' is assigned a value but never used                        no-unused-vars
+   790:17  warning  'offset' is defined but never used                               no-unused-vars
+   894:47  warning  'value' is defined but never used                                no-unused-vars
+   906:45  warning  Empty block statement                                            no-empty
+   956:39  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  1208:22  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  1540:13  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  1686:4   warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/cm_src/jquery.ui.position.js
+   11:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   21:14  warning  Unnecessary escape character: \+          no-useless-escape
+   21:16  warning  Unnecessary escape character: \-          no-useless-escape
+  497:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/gui-control-ind.js
+    2:5   warning  '$' is not defined                               no-undef
+    5:5   warning  'evaluation' is assigned a value but never used  no-unused-vars
+    6:5   warning  'A' is assigned a value but never used           no-unused-vars
+    7:5   warning  'B' is assigned a value but never used           no-unused-vars
+    8:5   warning  'S' is assigned a value but never used           no-unused-vars
+    9:5   warning  'C' is assigned a value but never used           no-unused-vars
+   17:30  warning  'circuitController' is not defined               no-undef
+   39:1   warning  '$' is not defined                               no-undef
+   40:5   warning  'circuitController' is not defined               no-undef
+   40:42  warning  'jsPlumb' is not defined                         no-undef
+   41:5   warning  'circuitController' is not defined               no-undef
+   42:5   warning  'circuitController' is not defined               no-undef
+   43:5   warning  'circuitController' is not defined               no-undef
+   43:37  warning  '$' is not defined                               no-undef
+   45:5   warning  'circuitController' is not defined               no-undef
+   46:5   warning  'circuitController' is not defined               no-undef
+   47:5   warning  'circuitController' is not defined               no-undef
+   48:5   warning  'circuitController' is not defined               no-undef
+   49:5   warning  'circuitController' is not defined               no-undef
+   52:5   warning  'circuitController' is not defined               no-undef
+   53:5   warning  'circuitController' is not defined               no-undef
+   54:5   warning  'circuitController' is not defined               no-undef
+   55:5   warning  'circuitController' is not defined               no-undef
+   56:5   warning  'circuitController' is not defined               no-undef
+   58:5   warning  'circuitController' is not defined               no-undef
+   59:5   warning  'circuitController' is not defined               no-undef
+   60:5   warning  'circuitController' is not defined               no-undef
+   61:5   warning  'circuitController' is not defined               no-undef
+   62:5   warning  'circuitController' is not defined               no-undef
+   64:5   warning  'circuitController' is not defined               no-undef
+   65:5   warning  'circuitController' is not defined               no-undef
+   66:5   warning  'circuitController' is not defined               no-undef
+   67:5   warning  'circuitController' is not defined               no-undef
+   68:5   warning  'circuitController' is not defined               no-undef
+   70:5   warning  'circuitController' is not defined               no-undef
+   71:5   warning  'circuitController' is not defined               no-undef
+   72:5   warning  'circuitController' is not defined               no-undef
+   73:5   warning  'circuitController' is not defined               no-undef
+   74:5   warning  'circuitController' is not defined               no-undef
+   76:5   warning  'circuitController' is not defined               no-undef
+   77:5   warning  'circuitController' is not defined               no-undef
+   78:5   warning  'circuitController' is not defined               no-undef
+   79:5   warning  'circuitController' is not defined               no-undef
+   80:5   warning  'circuitController' is not defined               no-undef
+   82:5   warning  'circuitController' is not defined               no-undef
+   83:5   warning  'circuitController' is not defined               no-undef
+   84:5   warning  'circuitController' is not defined               no-undef
+   85:5   warning  'circuitController' is not defined               no-undef
+   86:5   warning  'circuitController' is not defined               no-undef
+   88:5   warning  'circuitController' is not defined               no-undef
+   89:5   warning  'circuitController' is not defined               no-undef
+   90:5   warning  'circuitController' is not defined               no-undef
+   91:5   warning  'circuitController' is not defined               no-undef
+   92:5   warning  'circuitController' is not defined               no-undef
+   94:5   warning  'circuitController' is not defined               no-undef
+   95:5   warning  'circuitController' is not defined               no-undef
+   96:5   warning  'circuitController' is not defined               no-undef
+   97:5   warning  'circuitController' is not defined               no-undef
+   98:5   warning  'circuitController' is not defined               no-undef
+  100:5   warning  'circuitController' is not defined               no-undef
+  101:5   warning  'circuitController' is not defined               no-undef
+  102:5   warning  'circuitController' is not defined               no-undef
+  103:5   warning  'circuitController' is not defined               no-undef
+  104:5   warning  'circuitController' is not defined               no-undef
+  108:5   warning  'circuitController' is not defined               no-undef
+  109:5   warning  'circuitController' is not defined               no-undef
+  110:5   warning  'circuitController' is not defined               no-undef
+  111:5   warning  'circuitController' is not defined               no-undef
+  112:5   warning  'circuitController' is not defined               no-undef
+  115:5   warning  'circuitController' is not defined               no-undef
+  116:5   warning  'circuitController' is not defined               no-undef
+  117:5   warning  'circuitController' is not defined               no-undef
+  118:5   warning  'circuitController' is not defined               no-undef
+  119:5   warning  'circuitController' is not defined               no-undef
+  121:5   warning  'circuitController' is not defined               no-undef
+  122:5   warning  'circuitController' is not defined               no-undef
+  123:5   warning  'circuitController' is not defined               no-undef
+  124:5   warning  'circuitController' is not defined               no-undef
+  125:5   warning  'circuitController' is not defined               no-undef
+  127:5   warning  'circuitController' is not defined               no-undef
+  128:5   warning  'circuitController' is not defined               no-undef
+  129:5   warning  'circuitController' is not defined               no-undef
+  130:5   warning  'circuitController' is not defined               no-undef
+  131:5   warning  'circuitController' is not defined               no-undef
+  133:5   warning  'circuitController' is not defined               no-undef
+  134:5   warning  'circuitController' is not defined               no-undef
+  135:5   warning  'circuitController' is not defined               no-undef
+  136:5   warning  'circuitController' is not defined               no-undef
+  137:5   warning  'circuitController' is not defined               no-undef
+  139:5   warning  'circuitController' is not defined               no-undef
+  140:5   warning  'circuitController' is not defined               no-undef
+  141:5   warning  'circuitController' is not defined               no-undef
+  142:5   warning  'circuitController' is not defined               no-undef
+  143:5   warning  'circuitController' is not defined               no-undef
+  145:5   warning  'circuitController' is not defined               no-undef
+  146:5   warning  'circuitController' is not defined               no-undef
+  147:5   warning  'circuitController' is not defined               no-undef
+  148:5   warning  'circuitController' is not defined               no-undef
+  149:5   warning  'circuitController' is not defined               no-undef
+  151:5   warning  'circuitController' is not defined               no-undef
+  152:5   warning  'circuitController' is not defined               no-undef
+  153:5   warning  'circuitController' is not defined               no-undef
+  154:5   warning  'circuitController' is not defined               no-undef
+  155:5   warning  'circuitController' is not defined               no-undef
+  157:5   warning  'circuitController' is not defined               no-undef
+  158:5   warning  'circuitController' is not defined               no-undef
+  159:5   warning  'circuitController' is not defined               no-undef
+  160:5   warning  'circuitController' is not defined               no-undef
+  161:5   warning  'circuitController' is not defined               no-undef
+  163:5   warning  'circuitController' is not defined               no-undef
+  164:5   warning  'circuitController' is not defined               no-undef
+  165:5   warning  'circuitController' is not defined               no-undef
+  166:5   warning  'circuitController' is not defined               no-undef
+  167:5   warning  'circuitController' is not defined               no-undef
+  171:5   warning  'circuitController' is not defined               no-undef
+  172:5   warning  'circuitController' is not defined               no-undef
+  173:5   warning  'circuitController' is not defined               no-undef
+  174:5   warning  'circuitController' is not defined               no-undef
+  175:5   warning  'circuitController' is not defined               no-undef
+  178:5   warning  'circuitController' is not defined               no-undef
+  179:5   warning  'circuitController' is not defined               no-undef
+  180:5   warning  'circuitController' is not defined               no-undef
+  181:5   warning  'circuitController' is not defined               no-undef
+  182:5   warning  'circuitController' is not defined               no-undef
+  184:5   warning  'circuitController' is not defined               no-undef
+  185:5   warning  'circuitController' is not defined               no-undef
+  186:5   warning  'circuitController' is not defined               no-undef
+  187:5   warning  'circuitController' is not defined               no-undef
+  188:5   warning  'circuitController' is not defined               no-undef
+  190:5   warning  'circuitController' is not defined               no-undef
+  191:5   warning  'circuitController' is not defined               no-undef
+  192:5   warning  'circuitController' is not defined               no-undef
+  193:5   warning  'circuitController' is not defined               no-undef
+  194:5   warning  'circuitController' is not defined               no-undef
+  196:5   warning  'circuitController' is not defined               no-undef
+  197:5   warning  'circuitController' is not defined               no-undef
+  198:5   warning  'circuitController' is not defined               no-undef
+  199:5   warning  'circuitController' is not defined               no-undef
+  200:5   warning  'circuitController' is not defined               no-undef
+  202:5   warning  'circuitController' is not defined               no-undef
+  203:5   warning  'circuitController' is not defined               no-undef
+  204:5   warning  'circuitController' is not defined               no-undef
+  205:5   warning  'circuitController' is not defined               no-undef
+  206:5   warning  'circuitController' is not defined               no-undef
+  208:5   warning  'circuitController' is not defined               no-undef
+  209:5   warning  'circuitController' is not defined               no-undef
+  210:5   warning  'circuitController' is not defined               no-undef
+  211:5   warning  'circuitController' is not defined               no-undef
+  212:5   warning  'circuitController' is not defined               no-undef
+  214:5   warning  'circuitController' is not defined               no-undef
+  215:5   warning  'circuitController' is not defined               no-undef
+  216:5   warning  'circuitController' is not defined               no-undef
+  217:5   warning  'circuitController' is not defined               no-undef
+  218:5   warning  'circuitController' is not defined               no-undef
+  220:5   warning  'circuitController' is not defined               no-undef
+  221:5   warning  'circuitController' is not defined               no-undef
+  222:5   warning  'circuitController' is not defined               no-undef
+  223:5   warning  'circuitController' is not defined               no-undef
+  224:5   warning  'circuitController' is not defined               no-undef
+  226:5   warning  'circuitController' is not defined               no-undef
+  227:5   warning  'circuitController' is not defined               no-undef
+  228:5   warning  'circuitController' is not defined               no-undef
+  229:5   warning  'circuitController' is not defined               no-undef
+  230:5   warning  'circuitController' is not defined               no-undef
+  234:5   warning  'circuitController' is not defined               no-undef
+  235:5   warning  'circuitController' is not defined               no-undef
+  236:5   warning  'circuitController' is not defined               no-undef
+  237:5   warning  'circuitController' is not defined               no-undef
+  238:5   warning  'circuitController' is not defined               no-undef
+  241:5   warning  'circuitController' is not defined               no-undef
+  242:5   warning  'circuitController' is not defined               no-undef
+  243:5   warning  'circuitController' is not defined               no-undef
+  244:5   warning  'circuitController' is not defined               no-undef
+  245:5   warning  'circuitController' is not defined               no-undef
+  247:5   warning  'circuitController' is not defined               no-undef
+  248:5   warning  'circuitController' is not defined               no-undef
+  249:5   warning  'circuitController' is not defined               no-undef
+  250:5   warning  'circuitController' is not defined               no-undef
+  251:5   warning  'circuitController' is not defined               no-undef
+  253:5   warning  'circuitController' is not defined               no-undef
+  254:5   warning  'circuitController' is not defined               no-undef
+  255:5   warning  'circuitController' is not defined               no-undef
+  256:5   warning  'circuitController' is not defined               no-undef
+  257:5   warning  'circuitController' is not defined               no-undef
+  259:5   warning  'circuitController' is not defined               no-undef
+  260:5   warning  'circuitController' is not defined               no-undef
+  261:5   warning  'circuitController' is not defined               no-undef
+  262:5   warning  'circuitController' is not defined               no-undef
+  263:5   warning  'circuitController' is not defined               no-undef
+  265:5   warning  'circuitController' is not defined               no-undef
+  266:5   warning  'circuitController' is not defined               no-undef
+  267:5   warning  'circuitController' is not defined               no-undef
+  268:5   warning  'circuitController' is not defined               no-undef
+  269:5   warning  'circuitController' is not defined               no-undef
+  271:5   warning  'circuitController' is not defined               no-undef
+  272:5   warning  'circuitController' is not defined               no-undef
+  273:5   warning  'circuitController' is not defined               no-undef
+  274:5   warning  'circuitController' is not defined               no-undef
+  275:5   warning  'circuitController' is not defined               no-undef
+  277:5   warning  'circuitController' is not defined               no-undef
+  278:5   warning  'circuitController' is not defined               no-undef
+  279:5   warning  'circuitController' is not defined               no-undef
+  280:5   warning  'circuitController' is not defined               no-undef
+  281:5   warning  'circuitController' is not defined               no-undef
+  283:5   warning  'circuitController' is not defined               no-undef
+  284:5   warning  'circuitController' is not defined               no-undef
+  285:5   warning  'circuitController' is not defined               no-undef
+  286:5   warning  'circuitController' is not defined               no-undef
+  287:5   warning  'circuitController' is not defined               no-undef
+  289:5   warning  'circuitController' is not defined               no-undef
+  290:5   warning  'circuitController' is not defined               no-undef
+  291:5   warning  'circuitController' is not defined               no-undef
+  292:5   warning  'circuitController' is not defined               no-undef
+  293:5   warning  'circuitController' is not defined               no-undef
+  300:5   warning  'circuitController' is not defined               no-undef
+  301:5   warning  'circuitController' is not defined               no-undef
+  302:5   warning  'circuitController' is not defined               no-undef
+  303:5   warning  'circuitController' is not defined               no-undef
+  306:5   warning  'circuitController' is not defined               no-undef
+  307:5   warning  'circuitController' is not defined               no-undef
+  308:5   warning  'circuitController' is not defined               no-undef
+  309:5   warning  'circuitController' is not defined               no-undef
+  312:5   warning  'circuitController' is not defined               no-undef
+  313:5   warning  'circuitController' is not defined               no-undef
+  314:5   warning  'circuitController' is not defined               no-undef
+  315:5   warning  'circuitController' is not defined               no-undef
+  318:5   warning  'circuitController' is not defined               no-undef
+  319:5   warning  'circuitController' is not defined               no-undef
+  320:5   warning  'circuitController' is not defined               no-undef
+  321:5   warning  'circuitController' is not defined               no-undef
+  324:5   warning  'circuitController' is not defined               no-undef
+  325:5   warning  'circuitController' is not defined               no-undef
+  326:5   warning  'circuitController' is not defined               no-undef
+  327:5   warning  'circuitController' is not defined               no-undef
+  329:5   warning  'circuitController' is not defined               no-undef
+  330:5   warning  'circuitController' is not defined               no-undef
+  331:5   warning  'circuitController' is not defined               no-undef
+  332:5   warning  'circuitController' is not defined               no-undef
+  334:5   warning  'circuitController' is not defined               no-undef
+  335:5   warning  'circuitController' is not defined               no-undef
+  336:5   warning  'circuitController' is not defined               no-undef
+  337:5   warning  'circuitController' is not defined               no-undef
+  346:5   warning  'circuitController' is not defined               no-undef
+  347:5   warning  'circuitController' is not defined               no-undef
+  348:5   warning  'circuitController' is not defined               no-undef
+  349:5   warning  'circuitController' is not defined               no-undef
+  352:5   warning  'circuitController' is not defined               no-undef
+  353:5   warning  'circuitController' is not defined               no-undef
+  354:5   warning  'circuitController' is not defined               no-undef
+  355:5   warning  'circuitController' is not defined               no-undef
+  357:5   warning  'circuitController' is not defined               no-undef
+  358:5   warning  'circuitController' is not defined               no-undef
+  359:5   warning  'circuitController' is not defined               no-undef
+  360:5   warning  'circuitController' is not defined               no-undef
+  363:5   warning  'circuitController' is not defined               no-undef
+  364:5   warning  'circuitController' is not defined               no-undef
+  365:5   warning  'circuitController' is not defined               no-undef
+  366:5   warning  'circuitController' is not defined               no-undef
+  368:5   warning  'circuitController' is not defined               no-undef
+  369:5   warning  'circuitController' is not defined               no-undef
+  370:5   warning  'circuitController' is not defined               no-undef
+  371:5   warning  'circuitController' is not defined               no-undef
+  373:5   warning  'circuitController' is not defined               no-undef
+  374:5   warning  'circuitController' is not defined               no-undef
+  375:5   warning  'circuitController' is not defined               no-undef
+  376:5   warning  'circuitController' is not defined               no-undef
+  378:5   warning  'circuitController' is not defined               no-undef
+  379:5   warning  'circuitController' is not defined               no-undef
+  380:5   warning  'circuitController' is not defined               no-undef
+  381:5   warning  'circuitController' is not defined               no-undef
+  383:5   warning  'circuitController' is not defined               no-undef
+  384:5   warning  'circuitController' is not defined               no-undef
+  385:5   warning  'circuitController' is not defined               no-undef
+  386:5   warning  'circuitController' is not defined               no-undef
+  388:5   warning  'circuitController' is not defined               no-undef
+  389:5   warning  'circuitController' is not defined               no-undef
+  390:5   warning  'circuitController' is not defined               no-undef
+  391:5   warning  'circuitController' is not defined               no-undef
+  393:5   warning  'circuitController' is not defined               no-undef
+  394:5   warning  'circuitController' is not defined               no-undef
+  395:5   warning  'circuitController' is not defined               no-undef
+  396:5   warning  'circuitController' is not defined               no-undef
+  398:5   warning  'circuitController' is not defined               no-undef
+  399:5   warning  'circuitController' is not defined               no-undef
+  400:5   warning  'circuitController' is not defined               no-undef
+  401:5   warning  'circuitController' is not defined               no-undef
+  403:5   warning  'circuitController' is not defined               no-undef
+  404:5   warning  'circuitController' is not defined               no-undef
+  405:5   warning  'circuitController' is not defined               no-undef
+  406:5   warning  'circuitController' is not defined               no-undef
+  408:5   warning  'circuitController' is not defined               no-undef
+  409:5   warning  'circuitController' is not defined               no-undef
+  410:5   warning  'circuitController' is not defined               no-undef
+  411:5   warning  'circuitController' is not defined               no-undef
+  413:5   warning  'circuitController' is not defined               no-undef
+  414:5   warning  'circuitController' is not defined               no-undef
+  415:5   warning  'circuitController' is not defined               no-undef
+  416:5   warning  'circuitController' is not defined               no-undef
+  418:5   warning  'circuitController' is not defined               no-undef
+  419:5   warning  'circuitController' is not defined               no-undef
+  420:5   warning  'circuitController' is not defined               no-undef
+  421:5   warning  'circuitController' is not defined               no-undef
+  423:5   warning  'circuitController' is not defined               no-undef
+  424:5   warning  'circuitController' is not defined               no-undef
+  425:5   warning  'circuitController' is not defined               no-undef
+  426:5   warning  'circuitController' is not defined               no-undef
+  428:5   warning  'circuitController' is not defined               no-undef
+  429:5   warning  'circuitController' is not defined               no-undef
+  430:5   warning  'circuitController' is not defined               no-undef
+  431:5   warning  'circuitController' is not defined               no-undef
+  433:5   warning  'circuitController' is not defined               no-undef
+  434:5   warning  'circuitController' is not defined               no-undef
+  435:5   warning  'circuitController' is not defined               no-undef
+  436:5   warning  'circuitController' is not defined               no-undef
+  438:5   warning  'circuitController' is not defined               no-undef
+  439:5   warning  'circuitController' is not defined               no-undef
+  440:5   warning  'circuitController' is not defined               no-undef
+  441:5   warning  'circuitController' is not defined               no-undef
+  444:5   warning  'circuitController' is not defined               no-undef
+  445:5   warning  'circuitController' is not defined               no-undef
+  446:5   warning  'circuitController' is not defined               no-undef
+  447:5   warning  'circuitController' is not defined               no-undef
+  449:5   warning  'circuitController' is not defined               no-undef
+  450:5   warning  'circuitController' is not defined               no-undef
+  451:5   warning  'circuitController' is not defined               no-undef
+  452:5   warning  'circuitController' is not defined               no-undef
+  456:5   warning  'circuitController' is not defined               no-undef
+  457:5   warning  'circuitController' is not defined               no-undef
+  462:5   warning  'circuitController' is not defined               no-undef
+  463:5   warning  'circuitController' is not defined               no-undef
+  467:5   warning  'circuitController' is not defined               no-undef
+  468:5   warning  'circuitController' is not defined               no-undef
+  473:5   warning  '$' is not defined                               no-undef
+  479:9   warning  '$' is not defined                               no-undef
+  481:22  warning  '$' is not defined                               no-undef
+  482:22  warning  '$' is not defined                               no-undef
+  489:24  warning  'circuitController' is not defined               no-undef
+  512:13  warning  '$' is not defined                               no-undef
+  513:13  warning  '$' is not defined                               no-undef
+  515:13  warning  '$' is not defined                               no-undef
+  516:13  warning  '$' is not defined                               no-undef
+  518:13  warning  '$' is not defined                               no-undef
+  519:13  warning  '$' is not defined                               no-undef
+  521:13  warning  '$' is not defined                               no-undef
+  522:13  warning  '$' is not defined                               no-undef
+  524:13  warning  '$' is not defined                               no-undef
+  525:13  warning  '$' is not defined                               no-undef
+  660:5   warning  '$' is not defined                               no-undef
+  666:13  warning  '$' is not defined                               no-undef
+  667:16  warning  '$' is not defined                               no-undef
+  668:17  warning  '$' is not defined                               no-undef
+  672:17  warning  '$' is not defined                               no-undef
+  674:17  warning  '$' is not defined                               no-undef
+  678:17  warning  '$' is not defined                               no-undef
+  682:5   warning  '$' is not defined                               no-undef
+  688:13  warning  '$' is not defined                               no-undef
+  689:16  warning  '$' is not defined                               no-undef
+  690:17  warning  '$' is not defined                               no-undef
+  694:17  warning  '$' is not defined                               no-undef
+  696:17  warning  '$' is not defined                               no-undef
+  700:17  warning  '$' is not defined                               no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/gui-gen.js
+   15:29  warning  'CircuitController' is not defined   no-undef
+   17:1   warning  '$' is not defined                   no-undef
+   19:5   warning  '$' is not defined                   no-undef
+   26:5   warning  '$' is not defined                   no-undef
+   32:5   warning  '$' is not defined                   no-undef
+   37:5   warning  '$' is not defined                   no-undef
+   44:5   warning  '$' is not defined                   no-undef
+   49:22  warning  '$' is not defined                   no-undef
+   53:5   warning  '$' is not defined                   no-undef
+   56:31  warning  '$' is not defined                   no-undef
+   67:40  warning  '$' is not defined                   no-undef
+   68:39  warning  '$' is not defined                   no-undef
+   85:13  warning  '$' is not defined                   no-undef
+   90:5   warning  '$' is not defined                   no-undef
+   92:13  warning  '$' is not defined                   no-undef
+  104:5   warning  '$' is not defined                   no-undef
+  106:33  warning  'options' is defined but never used  no-unused-vars
+  108:56  warning  '$' is not defined                   no-undef
+  115:5   warning  '$' is not defined                   no-undef
+  119:13  warning  '$' is not defined                   no-undef
+  124:5   warning  '$' is not defined                   no-undef
+  129:17  warning  '$' is not defined                   no-undef
+  130:17  warning  '$' is not defined                   no-undef
+  134:29  warning  'EXP_ID' is not defined              no-undef
+  139:5   warning  '$' is not defined                   no-undef
+  147:5   warning  '$' is not defined                   no-undef
+  149:13  warning  '$' is not defined                   no-undef
+  154:5   warning  '$' is not defined                   no-undef
+  156:34  warning  'EXP_ID' is not defined              no-undef
+  162:5   warning  '$' is not defined                   no-undef
+  163:5   warning  '$' is not defined                   no-undef
+  164:15  warning  '$' is not defined                   no-undef
+  175:13  warning  '$' is not defined                   no-undef
+  176:13  warning  '$' is not defined                   no-undef
+  179:13  warning  '$' is not defined                   no-undef
+  180:13  warning  '$' is not defined                   no-undef
+  185:9   warning  '$' is not defined                   no-undef
+  186:9   warning  '$' is not defined                   no-undef
+  191:5   warning  '$' is not defined                   no-undef
+  192:5   warning  '$' is not defined                   no-undef
+  194:15  warning  '$' is not defined                   no-undef
+  207:17  warning  '$' is not defined                   no-undef
+  211:13  warning  '$' is not defined                   no-undef
+  214:13  warning  '$' is not defined                   no-undef
+  215:13  warning  '$' is not defined                   no-undef
+  220:9   warning  '$' is not defined                   no-undef
+  221:9   warning  '$' is not defined                   no-undef
+  225:1   warning  '$' is not defined                   no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/jquery.form.min.js
+  1:5028   warning  'ActiveXObject' is not defined  no-undef
+  1:11837  warning  'jQuery' is not defined         no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/jquery.js
+  2:820    warning  Empty block statement                                            no-empty
+  2:877    warning  Empty block statement                                            no-empty
+  2:4720   warning  'b' is defined but never used                                    no-unused-vars
+  2:5126   warning  'd' is defined but never used                                    no-unused-vars
+  2:5302   warning  'd' is defined but never used                                    no-unused-vars
+  2:6027   warning  Empty block statement                                            no-empty
+  2:6428   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6523   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6608   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6658   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6697   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10196  warning  Empty block statement                                            no-empty
+  2:11255  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14574  warning  'i' is defined but never used                                    no-unused-vars
+  2:16984  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17279  warning  'm' is defined but never used                                    no-unused-vars
+  2:17312  warning  'r' is assigned a value but never used                           no-unused-vars
+  2:19399  warning  'g' is defined but never used                                    no-unused-vars
+  2:21309  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:21836  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24565  warning  'c' is assigned a value but never used                           no-unused-vars
+  2:24675  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25416  warning  Empty block statement                                            no-empty
+  2:26513  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:26963  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:31862  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:31999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32015  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:56     warning  'q' is defined but never used                                    no-unused-vars
+  3:3638   warning  't' is defined but never used                                    no-unused-vars
+  3:7367   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:11980  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12006  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12031  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:13787  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15016  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15136  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15177  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15227  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15277  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15341  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15388  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15390  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15460  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15473  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15491  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15572  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15609  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15639  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15648  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:15650  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15970  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17350  warning  'b' is defined but never used                                    no-unused-vars
+  3:17505  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20157  warning  'h' is defined but never used                                    no-unused-vars
+  3:20213  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20288  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20305  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:21442  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:21454  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:23990  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24003  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24412  warning  Empty block statement                                            no-empty
+  3:24694  warning  Empty block statement                                            no-empty
+  3:25075  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25256  warning  Empty block statement                                            no-empty
+  3:26114  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:26509  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:26511  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:29597  warning  'd' is defined but never used                                    no-unused-vars
+  3:30269  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30271  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5068   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5076   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6100   warning  Empty block statement                                            no-empty
+  4:8493   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8505   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8697   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:8699   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:8701   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8717   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:9799   warning  'c' is defined but never used                                    no-unused-vars
+  4:11116  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:11178  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12065  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:14424  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:16789  warning  Empty block statement                                            no-empty
+  4:17420  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17432  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:24520  warning  Empty block statement                                            no-empty
+  4:25630  warning  'e' is assigned a value but never used                           no-unused-vars
+  4:28559  warning  'define' is not defined                                          no-undef
+  4:28571  warning  'define' is not defined                                          no-undef
+  4:28590  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/jquery.validate.min.js
+   404:14    warning  'i' is assigned a value but never used                                                                                                                                   no-unused-vars
+   524:6     warning  Mixed spaces and tabs                                                                                                                                                    no-mixed-spaces-and-tabs
+   582:15    warning  'jQuery' is not defined                                                                                                                                                  no-undef
+   609:15    warning  'i' is already defined                                                                                                                                                   no-redeclare
+   614:15    warning  'i' is already defined                                                                                                                                                   no-redeclare
+   668:4     warning  Mixed spaces and tabs                                                                                                                                                    no-mixed-spaces-and-tabs
+   707:31    warning  'element' is defined but never used                                                                                                                                      no-unused-vars
+   922:4     warning  Expected a 'break' statement before 'default'                                                                                                                            no-fallthrough
+  1014:37    warning  Unexpected control character(s) in regular expression: \x09, \x0d, \x0a, \x09, \x01, \x08, \x0b, \x0c, \x0e, \x1f, \x01, \x09, \x0b, \x0c, \x0d, \x09, \x0d, \x0a, \x09  no-control-regex
+  1014:54    warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1014:59    warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1014:61    warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1014:65    warning  Unnecessary escape character: \/                                                                                                                                         no-useless-escape
+  1014:68    warning  Unnecessary escape character: \?                                                                                                                                         no-useless-escape
+  1014:70    warning  Unnecessary escape character: \^                                                                                                                                         no-useless-escape
+  1014:75    warning  Unnecessary escape character: \|                                                                                                                                         no-useless-escape
+  1014:140   warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1014:145   warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1014:147   warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1014:151   warning  Unnecessary escape character: \/                                                                                                                                         no-useless-escape
+  1014:154   warning  Unnecessary escape character: \?                                                                                                                                         no-useless-escape
+  1014:156   warning  Unnecessary escape character: \^                                                                                                                                         no-useless-escape
+  1014:161   warning  Unnecessary escape character: \|                                                                                                                                         no-useless-escape
+  1020:137   warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1020:141   warning  Unnecessary escape character: \(                                                                                                                                         no-useless-escape
+  1020:143   warning  Unnecessary escape character: \)                                                                                                                                         no-useless-escape
+  1020:145   warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1020:147   warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1020:847   warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1020:851   warning  Unnecessary escape character: \(                                                                                                                                         no-useless-escape
+  1020:853   warning  Unnecessary escape character: \)                                                                                                                                         no-useless-escape
+  1020:855   warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1020:857   warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1020:951   warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1020:955   warning  Unnecessary escape character: \(                                                                                                                                         no-useless-escape
+  1020:957   warning  Unnecessary escape character: \)                                                                                                                                         no-useless-escape
+  1020:959   warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1020:961   warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1020:1062  warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1020:1066  warning  Unnecessary escape character: \(                                                                                                                                         no-useless-escape
+  1020:1068  warning  Unnecessary escape character: \)                                                                                                                                         no-useless-escape
+  1020:1070  warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1020:1072  warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1020:1110  warning  Unnecessary escape character: \#                                                                                                                                         no-useless-escape
+  1020:1192  warning  Unnecessary escape character: \$                                                                                                                                         no-useless-escape
+  1020:1196  warning  Unnecessary escape character: \(                                                                                                                                         no-useless-escape
+  1020:1198  warning  Unnecessary escape character: \)                                                                                                                                         no-useless-escape
+  1020:1200  warning  Unnecessary escape character: \*                                                                                                                                         no-useless-escape
+  1020:1202  warning  Unnecessary escape character: \+                                                                                                                                         no-useless-escape
+  1030:45    warning  Unnecessary escape character: \/                                                                                                                                         no-useless-escape
+  1030:57    warning  Unnecessary escape character: \/                                                                                                                                         no-useless-escape
+  1059:9     warning  'nDigit' is already defined                                                                                                                                              no-redeclare
+  1094:4     warning  'jQuery' is not defined                                                                                                                                                  no-undef
+  1099:1     warning  Unnecessary semicolon                                                                                                                                                    no-extra-semi
+  1127:4     warning  'jQuery' is not defined                                                                                                                                                  no-undef
+  1134:1     warning  Unnecessary semicolon                                                                                                                                                    no-extra-semi
+  1137:7     warning  'jQuery' is not defined                                                                                                                                                  no-undef
+  1137:40    warning  'jQuery' is not defined                                                                                                                                                  no-undef
+  1161:3     warning  Unnecessary semicolon                                                                                                                                                    no-extra-semi
+  1172:4     warning  'jQuery' is not defined                                                                                                                                                  no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/lib/jquery-latest.js
+  2:811    warning  Empty block statement                                            no-empty
+  2:868    warning  Empty block statement                                            no-empty
+  2:4552   warning  'b' is defined but never used                                    no-unused-vars
+  2:4958   warning  'd' is defined but never used                                    no-unused-vars
+  2:5134   warning  'd' is defined but never used                                    no-unused-vars
+  2:5848   warning  Empty block statement                                            no-empty
+  2:6249   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6344   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6429   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6479   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6518   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10017  warning  Empty block statement                                            no-empty
+  2:11094  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14518  warning  'i' is defined but never used                                    no-unused-vars
+  2:16933  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17226  warning  'l' is defined but never used                                    no-unused-vars
+  2:17259  warning  'q' is assigned a value but never used                           no-unused-vars
+  2:19193  warning  'h' is defined but never used                                    no-unused-vars
+  2:21605  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:22132  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24993  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25767  warning  Empty block statement                                            no-empty
+  2:26864  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:27314  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:32232  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:32375  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32391  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:424    warning  'q' is defined but never used                                    no-unused-vars
+  3:4052   warning  'u' is defined but never used                                    no-unused-vars
+  3:7877   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:12581  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12607  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12632  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:14388  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15625  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15745  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15786  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15836  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15886  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15950  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15997  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16069  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16082  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16100  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16181  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16218  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16248  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:16257  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:16259  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:16579  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17959  warning  'b' is defined but never used                                    no-unused-vars
+  3:18114  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20766  warning  'h' is defined but never used                                    no-unused-vars
+  3:20822  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20897  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20914  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:22051  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:22063  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:24619  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24632  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:25041  warning  Empty block statement                                            no-empty
+  3:25323  warning  Empty block statement                                            no-empty
+  3:25704  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25885  warning  Empty block statement                                            no-empty
+  3:26743  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:27138  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:27140  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:30238  warning  'd' is defined but never used                                    no-unused-vars
+  3:30926  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30928  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:1264   warning  Empty block statement                                            no-empty
+  4:5857   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5924   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5932   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6927   warning  Empty block statement                                            no-empty
+  4:9555   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9567   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9759   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:9761   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:9763   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9779   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:10861  warning  'c' is defined but never used                                    no-unused-vars
+  4:12193  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12255  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:13142  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:15501  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:15695  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:15700  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:15706  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17875  warning  Empty block statement                                            no-empty
+  4:18193  warning  Empty block statement                                            no-empty
+  4:18520  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:18532  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:25668  warning  Empty block statement                                            no-empty
+  4:26520  warning  'g' is assigned a value but never used                           no-unused-vars
+  4:29523  warning  'define' is not defined                                          no-undef
+  4:29535  warning  'define' is not defined                                          no-undef
+  4:29554  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/lib/jquery-ui/js/jquery-ui-latest.js
+  6:4334    warning  'jQuery' is not defined                                                    no-undef
+  6:4502    warning  Empty block statement                                                      no-empty
+  6:5730    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:10862   warning  'jQuery' is not defined                                                    no-undef
+  6:10882   warning  't' is defined but never used                                              no-unused-vars
+  6:10923   warning  'e' is defined but never used                                              no-unused-vars
+  6:13416   warning  'e' is defined but never used                                              no-unused-vars
+  6:13467   warning  'e' is defined but never used                                              no-unused-vars
+  6:13492   warning  'e' is defined but never used                                              no-unused-vars
+  6:13517   warning  'e' is defined but never used                                              no-unused-vars
+  6:13545   warning  'e' is defined but never used                                              no-unused-vars
+  6:13562   warning  'jQuery' is not defined                                                    no-undef
+  6:13846   warning  Unnecessary escape character: \+                                           no-useless-escape
+  6:13848   warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:20030   warning  'jQuery' is not defined                                                    no-undef
+  6:20040   warning  'jQuery' is not defined                                                    no-undef
+  6:20060   warning  't' is defined but never used                                              no-unused-vars
+  6:27008   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:27851   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:30353   warning  'e' is defined but never used                                              no-unused-vars
+  6:31431   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:31648   warning  's' is defined but never used                                              no-unused-vars
+  6:33487   warning  't' is defined but never used                                              no-unused-vars
+  6:33489   warning  'n' is defined but never used                                              no-unused-vars
+  6:33629   warning  't' is defined but never used                                              no-unused-vars
+  6:33631   warning  'n' is defined but never used                                              no-unused-vars
+  6:34076   warning  't' is defined but never used                                              no-unused-vars
+  6:34078   warning  'n' is defined but never used                                              no-unused-vars
+  6:34237   warning  'n' is defined but never used                                              no-unused-vars
+  6:35658   warning  't' is defined but never used                                              no-unused-vars
+  6:35660   warning  'n' is defined but never used                                              no-unused-vars
+  6:37145   warning  'v' is already defined                                                     no-redeclare
+  6:37164   warning  'm' is already defined                                                     no-redeclare
+  6:37183   warning  'g' is already defined                                                     no-redeclare
+  6:37202   warning  'y' is already defined                                                     no-redeclare
+  6:37882   warning  't' is defined but never used                                              no-unused-vars
+  6:37884   warning  'n' is defined but never used                                              no-unused-vars
+  6:38486   warning  'jQuery' is not defined                                                    no-undef
+  6:38506   warning  't' is defined but never used                                              no-unused-vars
+  6:44199   warning  'jQuery' is not defined                                                    no-undef
+  6:44219   warning  't' is defined but never used                                              no-unused-vars
+  6:49636   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:49651   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:49656   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:51574   warning  't' is assigned a value but never used                                     no-unused-vars
+  6:51801   warning  't' is defined but never used                                              no-unused-vars
+  6:51808   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:52127   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:52161   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:52874   warning  't' is assigned a value but never used                                     no-unused-vars
+  6:54049   warning  'n' is defined but never used                                              no-unused-vars
+  6:54108   warning  'n' is defined but never used                                              no-unused-vars
+  6:54115   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:54235   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:55216   warning  't' is defined but never used                                              no-unused-vars
+  6:55218   warning  'n' is defined but never used                                              no-unused-vars
+  6:56296   warning  't' is defined but never used                                              no-unused-vars
+  6:56298   warning  'n' is defined but never used                                              no-unused-vars
+  6:56402   warning  'n' is defined but never used                                              no-unused-vars
+  6:57275   warning  't' is defined but never used                                              no-unused-vars
+  6:57277   warning  'r' is defined but never used                                              no-unused-vars
+  6:58171   warning  'n' is defined but never used                                              no-unused-vars
+  6:58218   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:58256   warning  'u' is assigned a value but never used                                     no-unused-vars
+  6:59442   warning  't' is defined but never used                                              no-unused-vars
+  6:59444   warning  'n' is defined but never used                                              no-unused-vars
+  6:59491   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:59951   warning  't' is defined but never used                                              no-unused-vars
+  6:59953   warning  'n' is defined but never used                                              no-unused-vars
+  6:60279   warning  't' is defined but never used                                              no-unused-vars
+  6:60281   warning  'n' is defined but never used                                              no-unused-vars
+  6:60316   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:60427   warning  't' is defined but never used                                              no-unused-vars
+  6:60429   warning  'n' is defined but never used                                              no-unused-vars
+  6:60464   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:60596   warning  'n' is defined but never used                                              no-unused-vars
+  6:60699   warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:61356   warning  'jQuery' is not defined                                                    no-undef
+  6:61376   warning  't' is defined but never used                                              no-unused-vars
+  6:63528   warning  'a' is already defined                                                     no-redeclare
+  6:64725   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:65266   warning  'jQuery' is not defined                                                    no-undef
+  6:65286   warning  't' is defined but never used                                              no-unused-vars
+  6:66582   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:75591   warning  's' is already defined                                                     no-redeclare
+  6:76448   warning  's' is already defined                                                     no-redeclare
+  6:76503   warning  'u' is already defined                                                     no-redeclare
+  6:77206   warning  'n' is already defined                                                     no-redeclare
+  6:77247   warning  's' is already defined                                                     no-redeclare
+  6:83669   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:87278   warning  'i' is already defined                                                     no-redeclare
+  6:87959   warning  'i' is already defined                                                     no-redeclare
+  6:88267   warning  'i' is already defined                                                     no-redeclare
+  6:88681   warning  'jQuery' is not defined                                                    no-undef
+  6:88701   warning  't' is defined but never used                                              no-unused-vars
+  6:96862   warning  'jQuery' is not defined                                                    no-undef
+  6:96869   warning  'jQuery' is not defined                                                    no-undef
+  6:97440   warning  'jQuery' is not defined                                                    no-undef
+  6:97447   warning  'jQuery' is not defined                                                    no-undef
+  6:97759   warning  'jQuery' is not defined                                                    no-undef
+  6:97766   warning  'jQuery' is not defined                                                    no-undef
+  6:98004   warning  'jQuery' is not defined                                                    no-undef
+  6:98011   warning  'jQuery' is not defined                                                    no-undef
+  6:98042   warning  'jQuery' is not defined                                                    no-undef
+  6:98079   warning  'jQuery' is not defined                                                    no-undef
+  6:98550   warning  'jQuery' is not defined                                                    no-undef
+  6:98557   warning  'jQuery' is not defined                                                    no-undef
+  6:98920   warning  'jQuery' is not defined                                                    no-undef
+  6:98927   warning  'jQuery' is not defined                                                    no-undef
+  6:98961   warning  'jQuery' is not defined                                                    no-undef
+  6:98981   warning  't' is defined but never used                                              no-unused-vars
+  6:105891  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:105893  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:105908  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:106513  warning  'jQuery' is not defined                                                    no-undef
+  6:106533  warning  't' is defined but never used                                              no-unused-vars
+  6:113557  warning  'jQuery' is not defined                                                    no-undef
+  6:113577  warning  Shadowing of global property 'undefined'                                   no-shadow-restricted-names
+  6:128222  warning  Redundant double negation                                                  no-extra-boolean-cast
+  6:133176  warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:135614  warning  'b' is already defined                                                     no-redeclare
+  6:136053  warning  Unexpected constant condition                                              no-constant-condition
+  6:136061  warning  'b' is already defined                                                     no-redeclare
+  6:138879  warning  Empty block statement                                                      no-empty
+  6:143727  warning  'k' is assigned a value but never used                                     no-unused-vars
+  6:143947  warning  'P' is assigned a value but never used                                     no-unused-vars
+  6:145401  warning  'W' is already defined                                                     no-redeclare
+  6:151017  warning  'jQuery' is not defined                                                    no-undef
+  6:162116  warning  'jQuery' is not defined                                                    no-undef
+  6:162136  warning  't' is defined but never used                                              no-unused-vars
+  6:164694  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:164696  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:164711  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:171166  warning  'jQuery' is not defined                                                    no-undef
+  6:172585  warning  'jQuery' is not defined                                                    no-undef
+  6:172605  warning  't' is defined but never used                                              no-unused-vars
+  6:182333  warning  'jQuery' is not defined                                                    no-undef
+  6:187539  warning  'Globalize' is not defined                                                 no-undef
+  6:187697  warning  'Globalize' is not defined                                                 no-undef
+  6:188810  warning  'jQuery' is not defined                                                    no-undef
+  6:192418  warning  Unnecessary escape character: \/                                           no-useless-escape
+  6:192427  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:192431  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:194870  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:200944  warning  Empty block statement                                                      no-empty
+  6:203809  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:207135  warning  'jQuery' is not defined                                                    no-undef
+  6:211821  warning  'jQuery' is not defined                                                    no-undef
+  6:211829  warning  'jQuery' is not defined                                                    no-undef
+  6:212641  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:212834  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:212858  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:212882  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:213297  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:213321  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:217671  warning  Empty block statement                                                      no-empty
+  6:217762  warning  Empty block statement                                                      no-empty
+  6:218378  warning  'jQuery' is not defined                                                    no-undef
+  6:219142  warning  'jQuery' is not defined                                                    no-undef
+  6:219647  warning  'jQuery' is not defined                                                    no-undef
+  6:224626  warning  'jQuery' is not defined                                                    no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/lib/jquery.ibutton.min.js
+  21:432   warning  Redundant double negation  no-extra-boolean-cast
+  21:818   warning  'I' is already defined     no-redeclare
+  21:837   warning  Redundant double negation  no-extra-boolean-cast
+  21:2671  warning  'b' is already defined     no-redeclare
+  21:4129  warning  'b' is already defined     no-redeclare
+  21:5648  warning  'jQuery' is not defined    no-undef
+
+/home/runner/work/exp-half-adder-full-adder-iitg/exp-half-adder-full-adder-iitg/experiment/simulation/js/lib/jquery.jsPlumb-1.3.9-all-min.js
+  1:2904  error  Parsing error: Deleting local variable in strict mode
+
+✖ 885 problems (1 error, 884 warnings)
+  0 errors and 12 warnings potentially fixable with the `--fix` option.
+
