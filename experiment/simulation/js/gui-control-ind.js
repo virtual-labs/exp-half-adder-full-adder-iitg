@@ -2,6 +2,13 @@
     $('#output_sum_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
 };
 
+var evaluation = false;
+var A = 0;
+var B = 0;
+var S = 0;
+var C = 0;
+
+
 var checkGroundVccConnections = function(){
     var vccOk = false;
     var gndOk = false;
@@ -471,19 +478,14 @@ $(document).ready(function() {
         /*$(".ui-button .ui-icon.custom-switch-icon").css("background", "url('images/ckt_el/switch0.png') top center  no-repeat");*/
         $('#output_sum_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
 
-        /*var input1 = $('#input1').is(":checked")? '1': '0';
+        var input1 = $('#input1').is(":checked")? '1': '0';
         var input2 = $('#input2').is(":checked")? '1': '0';
-        var input3 = $('#input3').is(":checked")? '1': '0';
-        var input4 = $('#input4').is(":checked")? '1': '0';
-        var input5 = $('#input5').is(":checked")? '1': '0';*/
-        //circuitInput = input1 + ',' + input2 +',0,1';
 
-        //circuitInput = '0,0,'+ input2 + ',' + input1 +',0,0,0,0';
-        
+        circuitInput = input1 + ',' + input2 +',0,1';
+        circuitInput = '0,0,'+ input2 + ',' + input1 +',0,0,0,0';
+        circuitInput = 'Dev2/port0/line0:4;5;' + input1 +  + input2;
+        circuitInput = encodeURIComponent(circuitInput);
 
-        //circuitInput = 'Dev2/port0/line0:4;5;' + input1 +  + input2 + ',' + input3 + ',' + input4 + ',' + input5 ;
-
-        //circuitInput = encodeURIComponent(circuitInput);
         var allWires = circuitController.retrieveAllConnectionsForRunning();
 
         if(allWires.length == 0){
@@ -495,17 +497,39 @@ $(document).ready(function() {
             alert('Please make all Ground and Vcc connections.');
             return false;
         }
+        var channelWiring = allWires.join(";");
+        channelWiring = encodeURIComponent(channelWiring);
+
+
+        console.log(circuitInput);
+        console.log(channelWiring);
+
+        console.log(input1)
+        console.log(input2)
+
+        //set the conditional visual state of the output based on inputs
+        if((input1 === '1') && (input2 === '1')){
+            $('#output_sum_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+            $('#output_cout_comp').css("background", "url('images/ckt_el/light_on.png') no-repeat");
+        }else if((input1 === '0') && (input2 === '0')){
+            $('#output_sum_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+            $('#output_cout_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+        }else if((input1 === '0') && (input2 === '1')){
+            $('#output_sum_comp').css("background", "url('images/ckt_el/light_on.png') no-repeat");
+            $('#output_cout_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+        }else if((input1 === '1') && (input2 === '0')){
+            $('#output_sum_comp').css("background", "url('images/ckt_el/light_on.png') no-repeat");
+            $('#output_cout_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+        }else{
+            $('#output_sum_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+            $('#output_cout_comp').css("background", "url('images/ckt_el/light_off.png') no-repeat");
+        }
+
+        return false;
 
         //$('#modDialog').html('<img src="images/ajax-loader.gif" width="128" height="15"><br/>Processing Input...');
         //$("#modDialog").dialog( "open" );
-
-
-        
-  
-        /*var channelWiring = allWires.join(";");
-
-        channelWiring = encodeURIComponent(channelWiring);
-
+        /*
         //Sending AJAX request to the server
         var req = $.ajax({
             url : 'scripts/half_adder_lg.php',
@@ -639,6 +663,7 @@ $(document).ready(function() {
         },
         text:false
     }).click(function(){
+            $("#startButton").click();
             if($('#input1').is(":checked")){
                 $("#input1").button("option", {icons: {
                     primary: "custom-switch-icon-on"
@@ -660,6 +685,7 @@ $(document).ready(function() {
         },
         text:false
     }).click(function(){
+            $("#startButton").click();
             if($('#input2').is(":checked")){
                 $("#input2").button("option", "icons", {
                     primary: "custom-switch-icon-on"
